@@ -181,7 +181,7 @@ const Footer = () => {
             <div className="container px-5 py-4 mx-auto">
               <p className="text-md text-gray-900 capitalize text-center">
                 © WonderRoots Scholars All Copyright rights reserved....
-                Developed By <span className="">Jubair</span>{" "}
+                Developed By <span className="">Bayazid</span>{" "}
               </p>
             </div>
           </div>
