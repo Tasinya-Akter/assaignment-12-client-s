@@ -51,7 +51,7 @@ const Navbar = () => {
               className=" bg-gradient-to-r  animate-text from-gray-100 via-gray-100 to-gray-200 bg-clip-text text-transparent"
             >
               {" "}
-              WonderRoots
+              Photgraphy
             </h1>
           </Link>
           <button

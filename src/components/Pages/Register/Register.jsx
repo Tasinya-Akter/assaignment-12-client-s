@@ -64,7 +64,7 @@ const Register = () => {
   return (
     <section className="">
       <Helmet>
-        <title>WRS || Register</title>
+        <title>BHS || Register</title>
       </Helmet>
       <div className=" flex h-full flex-wrap items-center bg-white justify-center lg:justify-between">
         <div className=" md:mb-0 md:w-8/12 lg:w-6/12">
@@ -83,7 +83,7 @@ const Register = () => {
                   style={{ fontFamily: "Signika Negative', sans-serif" }}
                   className="text-lg items-center  font-bold"
                 >
-                  WonderRoots Scholars
+                  Photography Scholars
                 </h2>
               </a>
               <div className="w-full  bg-gradient-to-r from-gray-200 to-lime-200 rounded-lg shadow dark:border md:mt-0 sm:max-w-md xl:p-0  dark:border-gray-700">

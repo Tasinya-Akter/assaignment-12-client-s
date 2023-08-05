@@ -9,7 +9,7 @@ const Home = () => {
   return (
     <div className="">
       <Helmet>
-        <title>WRS || Home</title>
+        <title>BH || Home</title>
       </Helmet>
       <Banner></Banner>
       <PopularClasses></PopularClasses>

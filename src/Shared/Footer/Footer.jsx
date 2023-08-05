@@ -13,11 +13,11 @@ const Footer = () => {
                 <img className=" rounded-full w-12 h-12" src={logo} alt="" />
 
                 <h2 className="md:text-xl text-md ml-2  text-gray-900 items-center font-extrabold  ">
-                  WonderRoots Scholars
+                  Photography School
                 </h2>
               </a>
               <p className="mt-2 text-sm text-gray-800">
-                Have a Enjoy with WonderRoots Scholars....
+                Have a Enjoy with Photography School....
               </p>
               <div className="mt-4">
                 <span className="inline-flex justify-center mt-2 sm:ml-auto sm:mt-0 sm:justify-start">
@@ -170,7 +170,7 @@ const Footer = () => {
                   </li>
                   <li className="mt-3">
                     <a className="text-gray-900 cursor-pointer hover:text-gray-900">
-                      +123-456-7890
+                      01630360990
                     </a>
                   </li>
                 </nav>
@@ -180,7 +180,7 @@ const Footer = () => {
           <div className="bg-gray-200">
             <div className="container px-5 py-4 mx-auto">
               <p className="text-md text-gray-900 capitalize text-center">
-                © WonderRoots Scholars All Copyright rights reserved....
+                © Photography School All Copyright rights reserved....
                 Developed By <span className="">Bayazid</span>{" "}
               </p>
             </div>

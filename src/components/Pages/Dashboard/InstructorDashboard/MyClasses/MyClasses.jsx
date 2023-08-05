@@ -27,7 +27,7 @@ const MyClasses = () => {
   return (
     <div className="w-full">
       <Helmet>
-        <title>WRS || My Classes</title>
+        <title>BHS || My Classes</title>
       </Helmet>
       <h1 className="text-2xl">Total Classes: {classes.length}</h1>
       <motion.div

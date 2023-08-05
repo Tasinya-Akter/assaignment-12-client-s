@@ -44,7 +44,7 @@ const Login = () => {
   return (
     <div>
       <Helmet>
-        <title>WRS || Login</title>
+        <title>BHS || Login</title>
       </Helmet>
       <section className="py-6">
         <div className=" flex h-full flex-wrap items-center bg-white justify-center lg:justify-between">
@@ -64,7 +64,7 @@ const Login = () => {
                     style={{ fontFamily: "Signika Negative', sans-serif" }}
                     className="text-lg items-center  font-bold"
                   >
-                    WonderRoots Scholars
+                    Photography Scholars
                   </h2>
                 </a>
                 <div className="w-full  bg-gradient-to-r from-gray-200 to-lime-100 rounded-lg shadow dark:border md:mt-0 sm:max-w-md xl:p-0  dark:border-gray-700">

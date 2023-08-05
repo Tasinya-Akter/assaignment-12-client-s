@@ -63,7 +63,7 @@ const ManageUser = () => {
   return (
     <div className="w-full">
       <Helmet>
-        <title>WRS || Manage Users</title>
+        <title>BHS || Manage Users</title>
       </Helmet>
       <h3 className="text-3xl font-semibold my-4">
         Total Users: {users.length}

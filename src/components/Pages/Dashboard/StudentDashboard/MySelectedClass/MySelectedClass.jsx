@@ -38,7 +38,7 @@ const MySelectedClass = () => {
   return (
     <div className="w-full">
       <Helmet>
-        <title>WRS | My Selected Class</title>
+        <title>BHS | My Selected Class</title>
       </Helmet>
       <motion.div
         initial={{ opacity: 0 }}

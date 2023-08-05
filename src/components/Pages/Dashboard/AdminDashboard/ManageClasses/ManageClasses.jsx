@@ -54,7 +54,7 @@ const ManageClasses = () => {
   return (
     <div className="w-full">
       <Helmet>
-        <title>WRS || Manage Classes</title>
+        <title>BHS || Manage Classes</title>
       </Helmet>
       <h3 className="text-3xl font-semibold my-4">
         Total Classes: {classes.length}

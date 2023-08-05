@@ -28,9 +28,7 @@ const Testimonial = () => {
                 className="bg-gradient-to-r animate-text from-gray-400 via-gray-400 to-violet-600 bg-clip-text text-transparent rounded-lg shadow-2xl p-6"
               >
                 <p className="text-gray-600 mb-4">
-                  "This toy marketplace has the best selection of toys for all
-                  ages. I have made multiple purchases and have never been
-                  disappointed. Highly recommended!..."
+                  "Here is a list of some fantastic photography business start-up. This will inspire you as well as give you an idea of how to go about a photography. Highly recommended!..."
                 </p>
 
                 <div className="flex items-center justify-center">
@@ -48,8 +46,8 @@ const Testimonial = () => {
 
               <div className="bg-gradient-to-r animate-text from-gray-400 via-gray-400 to-violet-600 bg-clip-text text-transparent rounded-lg shadow-2xl p-6">
                 <p className="text-gray-600 mb-4 ">
-                  "I am extremely satisfied with the quality of the toys I
-                  purchased from this marketplace. The variety of options is
+                  "I am extremely satisfied with the quality of the photography I
+                  purchased from this School. The variety of options is
                   impressive, and the customer service was excellent..."
                 </p>
 
@@ -71,9 +69,7 @@ const Testimonial = () => {
                 className="bg-gradient-to-r animate-text from-gray-400 via-gray-400 to-violet-600 bg-clip-text text-transparent rounded-lg shadow-2xl p-6"
               >
                 <p className="text-gray-600 mb-4">
-                  "I had a wonderful experience shopping for toys on this
-                  marketplace. The website is user-friendly, the prices are
-                  competitive, and the shipping was fast. Will definitely be a
+                  "Good value and quick turnaround for professional photos required to sell on Amazon. Also used on our website. I'm going back for the next shoot!. Will definitely be a
                   repeat customer..."
                 </p>
 
